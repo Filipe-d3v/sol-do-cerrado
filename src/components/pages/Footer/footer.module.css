@@ -1,0 +1,35 @@
+.footer{
+  background-color: #007E7A;
+  height: 300px;
+  display: flex;
+  width: 100%;
+}
+
+.vale i{
+  font-size: 25px;
+  margin-right: 15px;
+  color: #eaeaea;
+  cursor: pointer;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.vale h2{
+  margin-left: 40px;
+  color: #ffffff;
+}
+
+.vale span{
+  color: #ffffff;
+  margin-left: 30px;
+}
+
+.footer h5{
+  color: #ffffff;
+  margin-left: 30px;
+}
+
+.footer h5:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
